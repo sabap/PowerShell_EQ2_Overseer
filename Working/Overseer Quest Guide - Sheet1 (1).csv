@@ -1,0 +1,64 @@
+Quest_Name,Quest_Season,Duration_Total,Duration_Seconds,Min_Agents,Max_Agents,Quest_Type,PosAtt_1,PosAtt_2,PosAtt_3,PosAtt_4,PosAtt_5,NegAtt_1,NegAtt_2,NegAtt_3,NegAtt_4,NegAtt_5,Bonus_Chance,Mishap_Chance,Account1,Account2
+The Word of Thule,1,10:00,36000,1,3,3,Dexterous,Focused,Wise,Tough,Sly,Honest,Righteous,,,,20,30,,
+The Kra'thuk's Magical Properties,1,10:00,36000,1,3,3,Intelligent,Honest,Strong,Wise,Noble,Focused,Dexterous,,,,20,30,,
+Save the Vision of Vox,1,10:00,36000,1,3,3,Compassionate,Vigilant,Strong,Noble,Wise,Cunning,Persuasive,Cautious,,,20,30,,
+Retrieval for the crown,1,10:00,36000,1,3,3,Diplomatic,Devoted,Wise,Noble,Agile,Cunning,Persuasive,,,,20,30,,
+Eliminate Venekor,1,10:00,36000,1,2,3,Charming,Cautious,Lucky,Tough,Sly,Strong,Focused,,,,20,30,,
+Save the Valkyrie Princess,1,5:00,18000,1,2,2,Charming,Honest,,,,Dexterous,,,,,20,20,,
+Recover the stolen scrolls,1,5:00,18000,1,2,2,Diplomatic,Vigilant,,,,Lucky,Agile,,,,20,20,,
+Reacquire the Idol of Solusek Ro,1,5:00,18000,1,2,2,Intelligent,Focused,,,,Compassionate,Vigilant,,,,20,20,,
+Exact Revenge on the Drakota,1,5:00,18000,1,2,2,Righteous,Devoted,,,,Diplomatic,Cautious,,,,20,20,,
+Convince the Guardians,1,5:00,18000,1,2,2,Vigilant,Diplomatic,,,,Tough,Agile,,,,20,20,,
+Save Orxilia Calogn,1,3:30,12600,1,2,2,Noble,Persuasive,Compassionate,,,Wise,Cautious,,,,15,10,,
+Find the Golden Idol of the Drafling,1,3:30,12600,1,2,2,Lucky,Cunning,Intelligent,,,Charming,Compassionate,,,,15,10,,
+Eliminate Warlord Ix Acon,1,3:30,12600,1,2,2,Agile,Vigilant,Dexterous,,,Diplomatic,Devoted,,,,15,10,,
+The Throne of Emperor Fyst,1,2:30,9000,1,2,2,Strong,Sly,Tough,Devoted,,Noble,Honest,,,,10,5,,
+Liberate Lady Laravale,1,2:30,9000,1,2,2,Wise,Noble,Strong,Honest,,Cautious,Cunning,,,,10,5,,
+Find the Goblin Banker's Loot,1,2:30,9000,1,2,2,Agile,Lucky,Tough,,,Intelligent,,,,,10,5,,
+Captured in Bramble Woods,1,1:30,5400,1,1,1,Tough,Noble,,,,Lucky,,,,,10,5,,
+Ewer of Sul'Dae,2,15:00,900,3,3,4,Intelligent,Manipulative,Vigilant,Tough,Agile,Shrewd,Corrupt,Diplomatic,,,25,30,,
+Eliminate the Djin Master,2,15:00,54000,3,3,4,Intelligent,Charming,Impatient,Lucky,Wise,Persuasive,Manipulative,Shrewd,,,25,30,,
+Eliminate Ahk'Mun Rhoen,2,10:00,36000,3,3,3,Diplomatic,Devoted,Wise,Strong,Noble,Tough,Agile,,,,20,30,,
+The Septer of Life,2,10:00,36000,3,3,3,Manipulative,Corrupt,Lucky,Sly,Shrewd,Compassionate,Intelligent,,,,20,30,,
+Save Xideus Yoatiak,2,10:00,36000,3,3,3,Dexterous,Honest,Lucky,Agile,Sly,Righteous,Charming,,,,20,30,,
+Retrieve the Golden Scale,2,10:00,36000,3,3,3,Compassionate,Cunning,Noble,Agile,Sly,Tough,Intelligent,,,,20,30,,
+The Platinum Eye,2,10:00,36000,3,3,3,Diplomatic,Focused,Tough,Noble,Wise,Agile,Manipulative,,,,20,30,,
+Eliminate Blademaster Thul,2,3:30,12600,2,2,2,Manipulative,Impatient,Sly,,,Wise,Honest,,,,15,10,,
+Eliminate Meathooks,2,5:00,18000,2,2,2,Dexterous,Focused,,,,Strong,Persuasive,,,,20,20,,
+Pirate Strongbox,2,2:30,9000,2,2,2,Persuasive,Strong,Tough,Lucky,,Shrewd,Wise,,,,10,5,,
+Rescue Gumbolt Triggerhand,2,5:00,18000,2,2,2,Charming,Vigilant,,,,Impatient,Cautious,,,,20,20,,
+Save Joana Larr,2,3:30,12600,2,2,2,Righteous,Honest,Wise,,,Sly,Cunning,,,,15,10,,
+Save Milo Brownfoot,2,2:30,9000,2,2,2,Honest,Strong,Tough,Noble,,Agile,Lucky,,,,10,5,,
+Shield of Cazel the Mad,2,2:30,9000,2,2,2,Vigilant,Agile,Tough,Noble,,Lucky,Sly,,,,10,5,,
+The Blackened Scepter,2,5:00,18000,2,2,2,Righteous,Cautious,,,,Focused,Corrupt,,,,20,20,,
+The Broken Lord's Crown,2,5:00,18000,2,2,2,Compassionate,Devoted,,,,Strong,Unpredictable,,,,20,20,,
+The Golden Tablet,2,5:00,18000,2,2,2,Manipulative,Focused,,,,Unpredictable,Cautious,,,,20,20,,
+The Priceless Time Monocle,2,3:30,12600,2,2,2,Dexterous,Devoted,Strong,,,Noble,Vigilant,,,,15,10,,
+Ancient Spices,2,1:30,5400,1,1,1,Vigilant,Noble,,,,Shrewd,,,,,10,5,,
+Eliminate Harbinger Siyuth,2,1:00,3600,1,1,1,Strong,Unpredictable,,,,Sly,,,,,5,5,,
+Eliminate Herald Zydul,2,1:30,5400,1,1,1,Persuasive,Shrewd,,,,Noble,,,,,10,5,,
+Eliminate Lady Samiel,2,2:00,7200,1,1,1,Corrupt,,,,,Honest,,,,,15,10,,
+Pilfer Tan'ke Rei's Golden Cap,2,2:00,7200,1,1,1,Persuasive,,,,,Cautious,,,,,15,10,,
+Raja the Sunspeaker's Staff,2,1:00,3600,1,1,1,Agile,Wise,,,,Lucky,,,,,5,5,,
+Rescue Dolloran Arkur fromAzhahkar the Gatecaller,2,2:00,7200,1,1,1,Cunning,,,,,Devoted,,,,,15,10,,
+Rescue Lady Mirolyn from Gorakhul the Annihilator,2,1:30,5400,1,1,1,Cautious,Lucky,,,,Strong,,,,,10,5,,
+Save Lord Pardun from Queen Marrowjaw,2,1:00,3600,1,1,1,Unpredictable,Shrewd,,,,Noble,,,,,5,5,,
+Steal Yinderis the Snake Charmer's Jeweled Pipe,2,1:30,5400,1,1,1,Devoted,Tough,,,,Wise,,,,,10,5,,
+The Golden Trowel,2,1:30,5400,1,1,1,Lucky,Cautious,,,,Unpredictable,,,,,10,5,,
+The Jeweled Fez,2,2:00,7200,1,1,1,Cunning,,,,,Impatient,,,,,15,10,,
+"Gaudralek, Sword of the Sky",3,10:00,36000,3,3,3,Adventurous,Inquisitive,Unpredictable,Persuasive,Compassionate,Shrewd,Tough,,,,20,30,,1
+Eliminate Pantrilla,3,10:00,36000,3,3,3,Unpredictable,Shrewd,Daring,Cunning,Dexterous,Tough,Sly,,,,20,30,1,
+Shield of the White Dragon,3,10:00,36000,3,3,3,Adventurous,Strong,Inquisitive,Stalwart,Courageous,Noble,Wise,,,,20,30,,1
+The Queen's Trove,3,2:30,9000,2,2,2,Daring,Agile,Sly,Focused,,Noble,Adventurous,,,,10,5,1,1
+The Vaults of El'Arad,3,3:30,12600,2,2,2,Unpredictable,Impatient,Courageous,,,Strong,Cunning,,,,15,10,1,
+Save Gribbly the Gallant,3,2:30,9000,2,2,2,Unpredictable,Shrewd,Adventurous,Corrupt,,Tough,Wise,,,,10,5,1,1
+The Crown of X'Haviz,3,2:30,9000,2,2,2,Daring,Inquisitive,Sly,Stalwart,,Impatient,Corrupt,,,,10,5,1,1
+Eliminate the Enmity of Naar'Yora,3,,,2,2,2,Persuasive,Courageous,,,,Shrewd,Agile,,,,20,20,,1
+Save Jabber Longwind from The Brood Matron,3,1:00,3600,1,1,1,Tough,Noble,,,,Adventureous,,,,,5,5,1,1
+Steal the Reformation Trinket,3,1:00,3600,1,1,1,Shrewd,Daring,,,,Unpredictable,,,,,5,5,1,1
+Eliminate Queen Bazzt Bzzt the 200th,3,1:00,3600,1,1,1,Daring,Inquisitive,,,,Adventureous,,,,,5,5,1,1
+The Gloompall Gewgaw,3,1:30,5400,1,1,1,Unpredictable,Stalwart,,,,Corrupt,,,,,10,5,1,1
+Rescue Constance Cloudpuff from Skymarshal Stormfeather,3,1:30,5400,1,1,1,Adventurous,Impatient,,,,Stalwart,,,,,10,5,1,
+Pilfer the Beguiler's Gemmed Robe,3,1:30,5400,1,1,1,Inquisitive,Impatient,,,,Daring,,,,,10,5,1,1
+Eliminate Konarr the Despoiler,3,1:30,5400,1,1,1,Daring,Stalwart,,,,Impatient,,,,,10,5,1,1
+The Emblem of the Lost Gods,3,1:30,5400,1,1,1,Inquisitive,Cunning,,,,Honest,,,,,10,5,1,
